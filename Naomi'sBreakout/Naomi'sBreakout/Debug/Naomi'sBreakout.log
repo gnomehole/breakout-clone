@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(28,22): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(28,22): warning C4244:         with
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(28,22): warning C4244:         [
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(28,22): warning C4244:             T=float
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(28,22): warning C4244:         ]
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(60,20): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(60,20): warning C4244:         with
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(60,20): warning C4244:         [
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(60,20): warning C4244:             T=float
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(60,20): warning C4244:         ]
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(10,6): warning C4101:  'Topbound': unreferenced local variable
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(9,6): warning C4101:  'Rightbound': unreferenced local variable
+C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Naomi'sBreakout\Main.cpp(8,6): warning C4101:  'Leftbound': unreferenced local variable
+  Naomi'sBreakout.vcxproj -> C:\Users\ntuckerholt\source\repos\Naomi'sBreakout\Debug\Naomi'sBreakout.exe
