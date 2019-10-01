@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (BreakoutClone.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,62): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,62): warning C4244:         with
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,62): warning C4244:         [
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,62): warning C4244:             T=float
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,62): warning C4244:         ]
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,47): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,47): warning C4244:         with
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,47): warning C4244:         [
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,47): warning C4244:             T=float
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(17,47): warning C4244:         ]
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(32,22): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(32,22): warning C4244:         with
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(32,22): warning C4244:         [
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(32,22): warning C4244:             T=float
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(32,22): warning C4244:         ]
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(53,16): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(53,16): warning C4244:         with
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(53,16): warning C4244:         [
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(53,16): warning C4244:             T=float
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(53,16): warning C4244:         ]
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(60,16): warning C4244:  '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(60,16): warning C4244:         with
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(60,16): warning C4244:         [
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(60,16): warning C4244:             T=float
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(60,16): warning C4244:         ]
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(11,6): warning C4101:  'Topbound': unreferenced local variable
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(10,6): warning C4101:  'Rightbound': unreferenced local variable
+C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Main.cpp(9,6): warning C4101:  'Leftbound': unreferenced local variable
+  BreakoutClone.vcxproj -> C:\Users\HOME\Documents\SAE\GAD173\GAD173\NaomisBreakoutClone\Debug\NaomisBreakoutClone.exe
